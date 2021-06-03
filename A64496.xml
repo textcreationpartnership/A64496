@@ -1,0 +1,2313 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The art of swimming illustrated by proper figures with advice for bathing / by Monsìeur Thevenot ; done out of French ; to which is prefixed a prefatory discourse concerning artificial swimming, or keeping ones self above water by several small portable engines, in case of danger.</title>
+            <title>Art de nager. English</title>
+            <author>Thévenot, M. (Melchisédech), 1620?-1692.</author>
+         </titleStmt>
+         <extent>Approx. 94 KB of XML-encoded text transcribed from 78 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64496</idno><idno type="EEBO-CITATION">11950374</idno>
+  <idno type="VID">51390</idno>
+  <idno type="EEBO-PROQUEST">2240911971</idno>
+  
+            <idno type="STC">Wing T888</idno>
+            <idno type="STC">ESTC R2501</idno>
+            <idno type="OCLC">11950374</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A64496)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51390)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 517:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The art of swimming illustrated by proper figures with advice for bathing / by Monsìeur Thevenot ; done out of French ; to which is prefixed a prefatory discourse concerning artificial swimming, or keeping ones self above water by several small portable engines, in case of danger.</title>
+                  <title>Art de nager. English</title>
+                  <author>Thévenot, M. (Melchisédech), 1620?-1692.</author>
+               </titleStmt>
+               <extent>[26], 60, 8 p., 32 leaves of plates.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Dan Brown ..., D. Midurnter and T. Leigh ..., and Robert Knaplock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: 8 p. at end.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Swimming --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51390:1"/>
+            <pb facs="tcp:51390:1"/>
+            <p>THE ART OF Swimming.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:51390:2"/>
+            <pb facs="tcp:51390:2"/>
+            <p>THE ART OF Swimming. Illustrated by Proper FIGURES. WITH Advice for BATHING.</p>
+            <p>By Monsieur <hi>THEVENOT.</hi>
+            </p>
+            <p>Done out of <hi>French.</hi>
+            </p>
+            <p>TO WHICH Is prefixed a Prefatory Discourse concerning Artificial Swimming, or keeping ones self above Water by se<g ref="char:EOLhyphen"/>veral small Portable Engines, in ca<g ref="char:EOLhyphen"/>ses of danger.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Dan. Brown</hi> at th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Swan</hi> without <hi>Temple-Bar; D. Midwinter</hi> and <hi>T. L. gh</hi> at the <hi>Rose</hi> and <hi>Crown,</hi> and <hi>Robert Knaplock</hi> at the <hi>Angel,</hi> in St. <hi>Pauls Church-Yard,</hi> 1699.</p>
+         </div>
+         <div type="translators_preface">
+            <pb facs="tcp:51390:3"/>
+            <pb facs="tcp:51390:3"/>
+            <head>THE Translator's PREFACE.</head>
+            <p>OUR Author endeavor<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to reduce Swimming to an Art, and lays down Rules how to attain it. Without doubt had this been done long a<g ref="char:EOLhyphen"/>go, and the Theory of it consi<g ref="char:EOLhyphen"/>der'd by Persons capable of Im<g ref="char:EOLhyphen"/>proving it, both Natural and Ar<g ref="char:EOLhyphen"/>tificial Swimming might have been advanced far beyond what they are at present; by natural Swimming, I mean Swimming
+<pb facs="tcp:51390:4"/> out any other Instruments than what Nature has furnished us with; and by the other, I mean that with Artificial helps.</p>
+            <p>The Theory of it (as an Art) has never, that I know of, been throughly consider'd by any, al<g ref="char:EOLhyphen"/>tho' the advantages and conveni<g ref="char:EOLhyphen"/>encies it brings along with it, suffi<g ref="char:EOLhyphen"/>ciently deserve it; and the Specu<g ref="char:EOLhyphen"/>lations it might yield, be no less delightful than those of several other Mechanical Arts, and of as much use.</p>
+            <p>To consider it in its most gene<g ref="char:EOLhyphen"/>ral extent, as the <hi>Evection and su<g ref="char:EOLhyphen"/>stentation of Bodies in Fluids,</hi> and from its first Principles, would be necessary to make the Theory perfect; in order to which the following hints may be servicea<g ref="char:EOLhyphen"/>ble to furnish matter for further Enquiries.</p>
+            <pb facs="tcp:51390:4"/>
+            <p>The first General Considerati<g ref="char:EOLhyphen"/>on in such a Theory ought to be the Specifick or Comparative weight of Bodies in the respective Fluids design'd to practise in. From thence may be obtain'd a perfect knowledge of the forces requir'd for sustentation and motion. When a Body is of equal weight with a fluid, bulk for bulk, it will swim immers'd in that fluid, its upper part even with the surface: If it be heavier than an equal bulk of the fluid, it will sink in it; if ligh<g ref="char:EOLhyphen"/>ter, it would float on the surface, as much of it being under the fluid as would equal in quantity a bulk of that fluid of the same weight with the whole Body. Humane Bodies are almost of the same weight with water; the difference or weight of a Man wholly im<g ref="char:EOLhyphen"/>mers'd
+<pb facs="tcp:51390:5"/> in water, being not above six or eight Ounces, and less in saltwater than in fresh. Thus Quicksilver being above thirteen times as heavy as water, it would be impossible for a Man cast into a Vessel or Lake of that, to sink; on the contrary the Air being 800 times at least lighter than water, it would be very difficult for a Man to mount or fly in that, tho' perhaps not impossible. A Man being thus of near the like weight with water, Swimming becomes so very easie to him, insomuch that lying on his Back without motion, and holding in his breath, he cannot sink.</p>
+            <p>The next Enquiry might be, which of all those various moti<g ref="char:EOLhyphen"/>ons he is capable of making with his Arms and Legs, are the most
+<pb facs="tcp:51390:5"/> serviceable to the different ways of Swimming. This is our Author's task in the following Treatise, wherein he shews several ways and methods of managing ones self upon all Emergencies. But to determine the business perfect<g ref="char:EOLhyphen"/>ly, Recourse ought to be had to Mechanicks, wherein the reasons of the whole are founded. The action of Swimming in Man, like a Boat with a pair of Oars, is no<g ref="char:EOLhyphen"/>thing but a motion pro<g ref="char:EOLhyphen"/>pagated by <hi>Vectes,</hi> whose <note n="*" place="margin">Fulci<g ref="char:EOLhyphen"/>ments.</note>
+               <hi>Fulcrum's</hi> are movable; and conse<g ref="char:EOLhyphen"/>quently all the reasons of it redu<g ref="char:EOLhyphen"/>cible to that of the <hi>Vectis,</hi> and thence it is easie to find out and determine which motions are best and most expeditious upon all oc<g ref="char:EOLhyphen"/>casions whatsoever, and to de<g ref="char:EOLhyphen"/>monstrate
+<pb facs="tcp:51390:6"/> the truth of them. The Consideration of humane Bodies, of the management of their Arms, and Legs, from the same Princi<g ref="char:EOLhyphen"/>ples, in other Arts and Exercises, shew evidently to us the reasons of several strange and surprizing actions, as in Wrestling, Fencing, <hi>&amp;c.</hi> and at the same time might give us inlets to further and un<g ref="char:EOLhyphen"/>thought-of Improvements.</p>
+            <p>The next place among such En<g ref="char:EOLhyphen"/>quiries might be alloted to Artifi<g ref="char:EOLhyphen"/>cial Swimming. Besides the com<g ref="char:EOLhyphen"/>mon helps of Cork and Bladders, <hi>&amp;c.</hi> that young beginners make use of to learn, there might be in<g ref="char:EOLhyphen"/>vented several small Machines of different uses for different purpo<g ref="char:EOLhyphen"/>ses. How easie, and at the same time how useful might several In<g ref="char:EOLhyphen"/>struments be found out, that were
+<pb facs="tcp:51390:6"/> very little and easily portable, by which one might pass any River, or escape any danger of the water. Girdles of several sorts (whereof I hear of one lately invented, and very useful) might be made for such cases, of any Materials that are flexible and impervious to the water, such as oyl'd Cloths, and several sorts of Leather. A Cylin<g ref="char:EOLhyphen"/>drical Case made of oyl'd Cloth, and kept open on the inside by Iron-rings fastned in it at a mode<g ref="char:EOLhyphen"/>rate distance from one another, so that clapping them together it might go into ones Pocket, might be so contrived as to tye round ones Wast, and fastned to keep the water out, and that alone would save from being drowned.</p>
+            <p>Several little Machines might be found very diverting in Swim<g ref="char:EOLhyphen"/>ming,
+<pb facs="tcp:51390:7"/> to promote Expedition, and make the motions of one single Man in the water swifter than any Boat; Contrivances of thin small Planes of Wood with Valves, or otherwise small Hinges, fastned to the Legs or Feet might be very serviceable to that end, and per<g ref="char:EOLhyphen"/>form the part of Fishes fins.</p>
+            <p>The Art of Diving is one of the most noble and useful parts of Swimming, and would deserve a particular Consideration in such a Theory. As to the Artificial or Machine part of it, it depends on other Principles besides Mecha<g ref="char:EOLhyphen"/>nicks. Considerations of the pres<g ref="char:EOLhyphen"/>sure of the Air proportional to the depth, and several other things besides the Construction of the Engines, must be enquired into, which would be too long to Dis<g ref="char:EOLhyphen"/>course of here.</p>
+            <pb facs="tcp:51390:7"/>
+            <p>In fine, Enquiries of this nature would prove very delightful to any one capable of them; and without doubt Improvements might be made equal to expecta<g ref="char:EOLhyphen"/>tion, since there are certain and infallible Grounds to proceed on, and perhaps something or other might happen that would abun<g ref="char:EOLhyphen"/>dantly recompence the time and pains of the Enquirer.</p>
+         </div>
+         <div type="authors_preface">
+            <pb facs="tcp:51390:8"/>
+            <pb facs="tcp:51390:8"/>
+            <head>THE PREFACE.</head>
+            <p>THE Merit or Advantage of any Treatise is not always to be deci<g ref="char:EOLhyphen"/>ded by the Title. That of this pre<g ref="char:EOLhyphen"/>sent Tract has nothing extraordinary to recommend it; it seems only to be calcula<g ref="char:EOLhyphen"/>ted for people of mean condition, such as Watermen, Sailors, to whom their Em<g ref="char:EOLhyphen"/>ployment has made the Arts of Swim<g ref="char:EOLhyphen"/>ming and Diving in some measure neces<g ref="char:EOLhyphen"/>sary, as also for some others who make use of it for diversion.</p>
+            <p>But to take a stricter and more imme<g ref="char:EOLhyphen"/>diate view of the matter: It must be ac<g ref="char:EOLhyphen"/>knowledged that the Art of Swimming may be of no small Importance to the greatest Personages and most elevated conditions of life. It seems to have an
+<pb facs="tcp:51390:9"/> alliance to the Art of Navigation, which is one of the boldest efforts of Mankind; For though the knowledge of the Winds and Compass seem to guard us from the dangers of Shipwrack; yet notwithstand<g ref="char:EOLhyphen"/>ing the Arts of the most skilful Pilots, all Ages have too sadly experienced the ha<g ref="char:EOLhyphen"/>zards of venturing on the Main, and that there needs recourse to other helps to a<g ref="char:EOLhyphen"/>void those Perils which Navigators are perpetually exposed to.</p>
+            <p>There is none more present to immedi<g ref="char:EOLhyphen"/>ate danger than the Art of Swimming: It would be superfluous to insist on those numerous reasons which might be brought to prove this truth, its self-evidence is more than a Demonstration. Nor is this Art less necessary even for those of all Conditions, even though they never ven<g ref="char:EOLhyphen"/>ture to Sea. A Person so far from da<g ref="char:EOLhyphen"/>ring to undertake a Voyage at Sea, that he never durst venture into a Pair of Oars, may (in several places) be sudden<g ref="char:EOLhyphen"/>ly drowned in his own house, even then, when he is least apprehensive of it; He ne<g ref="char:EOLhyphen"/>ver
+<pb facs="tcp:51390:9"/> foresaw the approaching deluge, and if he could have swam, might have avoi<g ref="char:EOLhyphen"/>ded the fatal consequence of it. That Tra<g ref="char:EOLhyphen"/>veller who had so happily made the Tour of the World, on his return home was drowned in a small River by a sudden mis<g ref="char:EOLhyphen"/>chance of his Boat running against a Bridge, because he could Swim no farther than to the bottom.</p>
+            <p>But to shew farther the advantage of this Art, it may not be amiss to take no<g ref="char:EOLhyphen"/>tice of what consequence it may be in VVar, and how serviceable it may chance to prove to Generals themselves in the most pressing occasions. Caesar has left us a very remarkable Example, when find<g ref="char:EOLhyphen"/>ing himself on the point of yielding to the Attempt of <hi>Ptolomy</hi> the <hi>Egyptian</hi> King, who had treacherously attackt him in <hi>Alexandria,</hi> He cast himself armed in<g ref="char:EOLhyphen"/>to the Sea, and by Swimming recover'd his Fleet, with which returning to re<g ref="char:EOLhyphen"/>ward the Treachery, <hi>Ptolomy</hi> was slain, and <hi>Cleopatra</hi> declared Queen of <hi>Egypt.</hi> This single Event is sufficient to shew of
+<pb facs="tcp:51390:10"/> what use the Art of Swimming may be, down from a General to a Common Soldier. It is no ways dishonourable to yield to force, when it would be rashness to endea<g ref="char:EOLhyphen"/>vour to defend ones self; and he that can safely retreat from an imminent danger, where otherwise he would have been ne<g ref="char:EOLhyphen"/>cessitated to have fallen a Victim to his Enemies, may be in a condition to re<g ref="char:EOLhyphen"/>turn sufficiently provided to revenge him<g ref="char:EOLhyphen"/>self.</p>
+            <p>In fine, the Art of Swimming was in great esteem among the Ancients. The <hi>Romans</hi> solemniz'd it among their publick Exercises; nay, they incorporated a par<g ref="char:EOLhyphen"/>ticular Society of Divers, which they call<g ref="char:EOLhyphen"/>ed, <hi>Urinatores.</hi> And <hi>Gruterus</hi> gives us this Inscription of it:
+<q>
+                  <l>Patrono Corporis Piscatorum &amp; Uri<g ref="char:EOLhyphen"/>natorum.</l>
+               </q>
+            </p>
+            <p>And there yet remain these Old Chara<g ref="char:EOLhyphen"/>cters on one of the Gates of <hi>Rome:</hi>
+               <q>
+                  <pb facs="tcp:51390:10"/>
+                  <p>FL. ANNAEO LEMONI FORTUNA<g ref="char:EOLhyphen"/>TO PISCAT. URINATORI Q. Q. III.</p>
+               </q>
+            </p>
+            <p>Every Man of VVar had its particu<g ref="char:EOLhyphen"/>lar Diver, whose Charge was to take care of the Anchors and Cables, the same with that of our Boatswains.</p>
+            <p>
+               <hi>Pliny</hi> tells us in the Second Book of his <hi>Natural History,</hi> that they had a me<g ref="char:EOLhyphen"/>thod of using Oyl under water for a free<g ref="char:EOLhyphen"/>dom of respiration, and managing of it so as to make it serviceable also for lighting them there.</p>
+            <p>According to the Testimony of <hi>Elianus,</hi> in the Fifth Book of his History, they were used to blacken the soals of their Feet, and the Palms of their Hands to avoid the Fishes, to whom the glistening of those parts in the water give notice. In Diving they went down with the head foremost, and turned themselves under water, hold<g ref="char:EOLhyphen"/>ing their breath, because thereby the Body becomes lighter.</p>
+            <pb facs="tcp:51390:11"/>
+            <p>Some would Swim thus the length of Eighty Furlongs together without being per<g ref="char:EOLhyphen"/>ceptible to any one: which is very consi<g ref="char:EOLhyphen"/>derable, and somewhat difficult to believe, each Furlong being 125 Geometrical Pa<g ref="char:EOLhyphen"/>ces, or 625 Feet, so that the 80 Furlongs of <hi>Greece</hi> were 10½ Miles <hi>English</hi> mea<g ref="char:EOLhyphen"/>sure; this surprizing force and activity of those Divers seems to be a little fabulous.</p>
+            <p>They had for their share the third part of whatever they brought up from the bot<g ref="char:EOLhyphen"/>tom, when the depth was not above eight Feet; and one half, when it was fifteen Foot deep.</p>
+            <p>Their assistance was also very considera<g ref="char:EOLhyphen"/>able in Naval Fights, wherein they cut the Cables under water of their Adversa<g ref="char:EOLhyphen"/>ries Ships. <hi>Dion Cassius</hi> reports in the Life of the Emperor <hi>Severus,</hi> that the <hi>Byzantines,</hi> at present the <hi>Constantino<g ref="char:EOLhyphen"/>politans,</hi> having been Besieged during three Years, by almost all the force of <hi>Greece,</hi> after having in vain essay'd seve<g ref="char:EOLhyphen"/>ral
+<pb facs="tcp:51390:11"/> Stratagems, at length resolved to at<g ref="char:EOLhyphen"/>tack their Adversaries Fleet with their Divers, who cut all their Cables under wa<g ref="char:EOLhyphen"/>ter, and having fastned them to some Ca<g ref="char:EOLhyphen"/>bles of their own Ships, carried off those of the Enemy without their Men, which obliged the <hi>Grecians</hi> to raise the Si<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge.</p>
+            <p>These Divers were not less necessary in close Engagements, and in Boarding one anothers Ships; they would lay hold on their Adversaries, and together along with them fling themselves over-board, and so drown them. <hi>Manilius</hi> the Poet in his Fifth B<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>k of <hi>Astronomy,</hi> speaks of a certain <hi>Phocian</hi> very Excellent in those sorts of Engagements.</p>
+            <p>Both the <hi>Grecian</hi> and <hi>Roman</hi> Histories are full of Narratives of the Ʋndertakings of these sort of Divers. But to come to our times, it is most certain that the <hi>Indians,</hi> and the Negroes excel all others in these Arts of Swimming and Diving. 'Tis to them the Ladies are obliged for their Ornaments of Pearl, they are the Divers
+<pb facs="tcp:51390:12"/> who fish for them; they are also very use<g ref="char:EOLhyphen"/>ful for recovering Anchors and Merchan<g ref="char:EOLhyphen"/>dizes that have been cast away.</p>
+            <p>The <hi>Chinese</hi> are not much inferiour to them in this sort of Exercise, they ex<g ref="char:EOLhyphen"/>tremely apply themselves to it; they have whole Floating Towns, which they build upon Reeds, and the Houses joined to<g ref="char:EOLhyphen"/>gether, and likewise Streets and all other Appurtenances of Towns on Land.</p>
+            <p>I might further enlarge on this Sub<g ref="char:EOLhyphen"/>ject, but the brevity I design in this Treatise, will not admit of a long Pre<g ref="char:EOLhyphen"/>face; I shall conclude with telling the Reader, That this is the first Treatise of this kind that has ever appeared in the <hi>French</hi> Tongue, nor do I know of but two that have in any other, the one of <hi>Everard Digby</hi> an <hi>English</hi> Man, where<g ref="char:EOLhyphen"/>of I have here made some use; the other of one <hi>Nicholas Winman</hi> a <hi>Dutch</hi> Man. I wish what I write hereon may be ac<g ref="char:EOLhyphen"/>ceptable to those who are curious on this Subject; and that is the sole End any honest
+<pb facs="tcp:51390:12"/> Author ought to propose to himself in what he does, which, whatever it be, de<g ref="char:EOLhyphen"/>serves no further applause from the Pub<g ref="char:EOLhyphen"/>lick, than it is found either useful or di<g ref="char:EOLhyphen"/>verting.</p>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <pb facs="tcp:51390:13"/>
+            <pb n="1" facs="tcp:51390:13"/>
+            <head>OF THE ART OF Swimming.</head>
+            <argument>
+               <p>That there is such an Art, as that of Swimming, and what is to be ob<g ref="char:EOLhyphen"/>served before one enters on putting the Precepts of it in Practice.</p>
+            </argument>
+            <p>WHILE one reflects on those many and frequent Accidents, which thro' want of Swimming dai<g ref="char:EOLhyphen"/>ly happen amongst us; Every one is ready to complain of the unhappiness of
+<pb n="2" facs="tcp:51390:14"/> Man in that respect, in comparison of other Animals, to whom Nature has in<g ref="char:EOLhyphen"/>dulg'd that faculty, which he ought to enjoy in a more excellent degree, since it is so necessary to his Preservation. But if we thoroughly consider the busi<g ref="char:EOLhyphen"/>ness, we shall find nothing more unrea<g ref="char:EOLhyphen"/>sonable than that complaint, since with<g ref="char:EOLhyphen"/>out doubt Man would not only Swim naturally like other Creatures, but also in more Perfection, and with more Va<g ref="char:EOLhyphen"/>riety, both for Pleasure and Advantage; Otherwise there would not so many ac<g ref="char:EOLhyphen"/>quit themselves that ways with such an admirable dexterity and address, as we daily see, which sufficiently demon<g ref="char:EOLhyphen"/>strates that Man has naturally all those Dispositions which are requisite and ne<g ref="char:EOLhyphen"/>cessary for it.</p>
+            <p>But it may be objected, If Man has naturally all the requisite Dispositions for Swimming, how comes it to pass that all Men do not Swim alike? To this its easy to answer, (which is beyond all doubt true) that they would Swim all alike without any distinction, and all equally share that happiness which is
+<pb n="3" facs="tcp:51390:14"/> as natural to them as to other Crea<g ref="char:EOLhyphen"/>tures, were they not render'd uncapa<g ref="char:EOLhyphen"/>ble by those internal Motions, which they don't sufficiently make themselves Masters of as they ought; such are those Motions of Fear, of Impatience, of Precipitation, <hi>&amp;c.</hi> which make them unfit to make use of those Perfecti<g ref="char:EOLhyphen"/>ons which they possess. For testimo<g ref="char:EOLhyphen"/>ny of this truth, we find that those in all Ages whom their Courage has ex<g ref="char:EOLhyphen"/>empted from these natural Remora's, have Swam from their very first At<g ref="char:EOLhyphen"/>tempts, and performed extraordinary and surprizing Actions, which is not uncommon now-a-days among those who imitate them. Of the Agility of the one and the other sort, at length an Art is form'd, reducible to certain Rules, such as you'll find in this little Tract, and which being put in pra<g ref="char:EOLhyphen"/>ctice by frequent Use and Experience, one may attain to the habit of Swim<g ref="char:EOLhyphen"/>ming perfectly.</p>
+            <p>This Art, which may be number'd among the Mechanick ones, since it is performed by M<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>on, and the Agita<g ref="char:EOLhyphen"/>tion
+<pb n="4" facs="tcp:51390:15"/> of the Hands and Feet, has been hitherto exercised rather by a rude Imi<g ref="char:EOLhyphen"/>tation, than the Observation of any Rules or Precepts, by reason no one has taken the pains to reduce it to any; although it has always sufficiently de<g ref="char:EOLhyphen"/>served it, by the great advantages it brings to those who possess it, and in general to all Civil Societies, the con<g ref="char:EOLhyphen"/>sideration whereof ought to have made Men study to render it more easy to be learned, and more familiar to all Men, since they may have so great occasion for it. For we ought not to look upon it as People commonly do, <hi>(viz.)</hi> as barely to Swim, turn about in the Wa<g ref="char:EOLhyphen"/>ter, dive, <hi>&amp;c.</hi> to create admiration in the Spectators of the Swimmers activity. Its end is far more noble, and the con<g ref="char:EOLhyphen"/>sequences of it so very considerable, that none ought to be ignorant of it, especi<g ref="char:EOLhyphen"/>ally since Life it self is concerned in it, and the Preservation of it, from those Dangers to which those are liable who cannot Swim.</p>
+            <p>To mention some few Advantages of Swimming. In Case of Shipwrack, if
+<pb n="5" facs="tcp:51390:15"/> one is not very far from the Shore, the Art of Swimming may set one safe there, and so save from being drowned. In case of being pursu'd by an Enemy, and meeting a River in ones way, you have the advantage of escaping two sorts of Death, by gaining the Shore on the other side, and so escaping from your Enemy, and from being drowned in the attempt of doing it.</p>
+            <p>But a good Swimmer may not only preserve his own Life, but several others also. An open Vessel on the main Sea, in a Storm may be kept from sinking by a good Diver: Or having lost her Anchors and Cables, and being ready to be cast on the Shore, may by him be haled thither, and avoid being dash<g ref="char:EOLhyphen"/>ed against the Rocks, and so the Lives of all in it saved; and the occasions of being thus helpful are only too fre<g ref="char:EOLhyphen"/>quent, as those who are used to the Seas very well know. By the same means one may attack an Enemy post<g ref="char:EOLhyphen"/>ed on the adverse sides of Rivers, and thereby sometimes gain a Victory. And those places which are environed
+<pb n="6" facs="tcp:51390:16"/> by Water are no more in safety when assaulted by such Besiegers.</p>
+            <p>It is from these Considerations which we have here mentioned, That the Art of Swimming ought to be esteemed, rather than from the Pleasure and Di<g ref="char:EOLhyphen"/>version which is commonly proposed by it; insomuch, that besides the In<g ref="char:EOLhyphen"/>terest which particular Persons may gain by learning it, and perfecting them<g ref="char:EOLhyphen"/>selves in it; it seems worth the while to erect Publick Academies, and esta<g ref="char:EOLhyphen"/>blish Experienced Masters in them to teach it, since the advantages of it may be so considerable. It will be found more easy to learn than it has ever been here<g ref="char:EOLhyphen"/>tofore, by observing the Precepts here laid down, by which those Difficulties may be avoided which use to deter young Beginners.</p>
+            <p>It may be objected, That of a vast number of Persons who are expert in Swimming, there is not one acquaint<g ref="char:EOLhyphen"/>ed with these Rules, and so the same Difficulties remain as before. We'll agree to the truth of this Objection; but among these Persons there may be
+<pb n="7" facs="tcp:51390:16"/> several, who are not only capable of throughly understanding these Rules as soon as they read them, and applying them to what they had before learned by Chance, or Imitation of others; but also to improve them, by adding to them what they may have found out by their own Experience, and so digest<g ref="char:EOLhyphen"/>ing and teaching the whole in an easy and methodical Order. Such Persons ought to be sought for and encouraged by Rewards, and we are perswaded that if there was any such one Expert and Dextrous that would publickly profess to teach it, he need want no Scholars nor Encouragement.</p>
+            <p>There is no Season wherein a Man may not have occasion to practice the Art of Swimming; but any Season is not proper to learn it in. That time of the Year is (without doubt) the best, wherein People follow the Baths, or Swimming for their Diversion, or to retain the Habit of it; that is, in the Months of <hi>May, June, July,</hi> and <hi>August,</hi> especially in our Climate, where the Water is often prejudicial to the
+<pb n="8" facs="tcp:51390:17"/> Health at other times. There are also some Anomalous Years wherein it is not healthful to go into the Water at all times in those four Months, as when the Weather is colder than ordinary for the Season, and consequently the Water. He that learns to Swim, ought to have his Animal Spirits at perfect liberty and command, which cannot be when the more than ordinary coldness of the Wa<g ref="char:EOLhyphen"/>ter forces one even to Shake and Trem<g ref="char:EOLhyphen"/>ble. It would be superfluous to add, That one ought not to go into the Water when it Rains, for besides the Rain (if it lasts any time) chilling the Water, it hinders from Swimming freely, and endangers catching Colds by wetting ones Cloaths.</p>
+            <p>The Night is also improper for this Exercise; and Weeds that may entan<g ref="char:EOLhyphen"/>gle the Feet, are also Obstacles among the rest, that ought to deter any pru<g ref="char:EOLhyphen"/>dent Person from venturing among them, especially considering that altho' you have Company with you, yet you may be lost beyond any possibility of help.</p>
+            <pb n="9" facs="tcp:51390:17"/>
+            <p>You ought likewise to take care that the Shore (or Bank of the River) where you strip, be not Dirty, or Muddy, that you may not dirt or foul your Feet at going out: You ought also to take heed where the Grass or Weeds be high, for fear of Snakes, or Toads, or other Venomous Animals, but that it be a plain even Turf, neat and clean, that you may keep your Feet so in returning to your Cloaths.</p>
+            <p>Before you go into the Water, you ought to see that it be clear, that there be no Scum or Froth on the Surface, what sort of Bottom it has, that there be no Weeds or Mud, for ones Feet may be entangled among the Weeds, or one may sink into the Mud, and the Wa<g ref="char:EOLhyphen"/>ter coming over ones Head, remain there, and be drowned. This may happen to the best Swimmers, by reason that by how much the more they endeavour to disengage themselves, they are so much the more liable to sink. The Bottom ought to be of Gra<g ref="char:EOLhyphen"/>vel, or smooth Stones, so that you may stand thereon as firmly as on the Earth,
+<pb n="10" facs="tcp:51390:18"/> and be neither in danger of sinkin<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Mud, nor wounding the Feet.<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ought also be taken that it be even,<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> without holes; and above all, that<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> know the depth, especially when<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> begin to learn; for as it is then ea<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tire ones self in strugling and ma<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the first Efforts, so you must be<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that the Bottom is not out of<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> depth, when you have occasion to<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and take breath. It is impossible t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> too cautious when you are alone,<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> have no one in Company that kn<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the place already; or if you have<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> seen others Swim there in the same<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cumstances without danger. Moreo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> it will not be amiss to observe,<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> when you have found out a place fi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> learn in, that you don't venture<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> where else till you are a perfect Ma<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of your Art, and till then it will<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the best way not to exercise witho<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Master, or some one who is very ex<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in Swimming.</p>
+            <p>Something yet remains to be ob<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ved before you enter into the Water,<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> regard to Stripping your self. If<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:51390:18"/> Sweat when you come to the place you have chosen; or if you have Sweat some time before you came, and are not quite cool'd, you ought to strip by degrees, and that in walking to and fro on the Shore, so that you may recover a good Temperature, and by thus gra<g ref="char:EOLhyphen"/>dually Stripping, the Pores have leisure to close, and the Body become in good Condition to be exposed to the Air without any detriment to the Health. After which you may enter into the Water, and Swim according to the fol<g ref="char:EOLhyphen"/>lowing Precepts.</p>
+            <pb facs="tcp:51390:19"/>
+            <figure>
+               <head>I Fig. 1. P.14</head>
+               <figDesc>leaping in feet first perpendicular to the water</figDesc>
+            </figure>
+            <pb facs="tcp:51390:19"/>
+            <figure>
+               <head>I Fig. 2. P.14</head>
+               <figDesc>walking into the water</figDesc>
+            </figure>
+         </div>
+         <div type="text">
+            <pb facs="tcp:51390:20"/>
+            <pb n="13" facs="tcp:51390:20"/>
+            <head>OF THE ART OF <hi>Swimming.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>I.</hi> Of the manner of entring into the Water.</head>
+               <p>THOSE who don't know how to Swim, ought to enter by de<g ref="char:EOLhyphen"/>grees, and gently, into the Wa<g ref="char:EOLhyphen"/>ter; but those who are expert often<g ref="char:EOLhyphen"/>times leap in all at once with their Feet perpendicular to the Bottom, as is re<g ref="char:EOLhyphen"/>presented
+<pb n="14" facs="tcp:51390:21"/> in the first Figure: sometimes after having walked a little way in the Water, they lie along stretching out the Body and Arms, as you may see in the second Figure. Others holding their Right Hand, or both Hands behind their Neck, from the Bank cast themselves in Head foremost, striking the Water with the Calves of their Legs one after the other, as in Figure 3.</p>
+               <p>There are some who after a short Race fling themselves into the Water on their Right or Left Side, as in Figure 4. Others taking several Leaps towards the Bank of the River, at last Leap in with their Feet foremost, Body upright, meeting the Water first with their But<g ref="char:EOLhyphen"/>tocks and Calves of their Legs, as in Figure 5. This way is very safe, and the best of all.</p>
+               <p>All these ways of entring into the Water seem to be very well and plea<g ref="char:EOLhyphen"/>sant; nor can I find any thing inconve<g ref="char:EOLhyphen"/>nient in them, except it be, that those who make use of them run the hazard of taking in Water at the Nose and Ears as they go down into it; but that
+<pb facs="tcp:51390:21"/>
+                  <figure>
+                     <head>I. F<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>g. 3 P.14</head>
+                     <figDesc>jumping in backwards with hands behind neck</figDesc>
+                  </figure>
+                  <pb facs="tcp:51390:22"/>
+                  <pb facs="tcp:51390:22"/>
+                  <figure>
+                     <head>I Fig. 4. P.14</head>
+                     <figDesc>jump in on one's side</figDesc>
+                  </figure>
+                  <pb facs="tcp:51390:23"/>
+                  <pb facs="tcp:51390:23"/>
+                  <figure>
+                     <head>I Fig. 5. P.14</head>
+                     <figDesc>leap in sitting posture</figDesc>
+                  </figure>
+                  <pb facs="tcp:51390:24"/>
+                  <pb n="15" facs="tcp:51390:24"/> may be avoided by holding in the Breath. It sometimes happens that those who are less expert, go down quite to the Bot<g ref="char:EOLhyphen"/>tom, which is inconvenient, by reason of sometimes striking against it, and that in a great depth you are obliged to hold your Breath a great while. But you may remedy that by turning on your Back as soon as you begin to ap<g ref="char:EOLhyphen"/>proach to the Bottom; for you will cease descending as soon as you begin to turn your self. The coldness of the Water is somewhat troublesome and painful at first, but in a little time you'll find use will take that off.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>II.</hi> To begin to learn to Swim.</head>
+               <p>AFTER he who is to teach you to Swim, shall have fathom'd the Depth of the Water, or you your self have found it by means of some Staff or Plummet, to put your self in a right
+<pb n="16" facs="tcp:51390:25"/> Posture for Swimming, lie down gent<g ref="char:EOLhyphen"/>ly on your Belly, keep your Head and Neck upright, your Breast advancing forward, your Back bending, with<g ref="char:EOLhyphen"/>draw your Legs from the Bottom, and immediately stretch them out again; strike out your Arms forwards, and spread them open, then draw them in again towards your Breast; strike for<g ref="char:EOLhyphen"/>wards, making use first of your Feet, then of your Hands; as many Strokes as you can, you'll find this way easy and pleasant. I have been used to per<g ref="char:EOLhyphen"/>swade those whom I have taught to Swim, not at all to fear lying along on the Water when they know the Bot<g ref="char:EOLhyphen"/>tom. It will sometimes happen that you'll be forced to drink down a great deal of Water, and put your self to a great deal of Trouble and Pains with<g ref="char:EOLhyphen"/>out much advancing in the Art; but that ought not to discourage you, nor need you fancy to your self that you are not as capable of Learning and Swim<g ref="char:EOLhyphen"/>ming well, as others, for the same things happen almost to all Beginners; for it is common at first Learning in lying
+<pb facs="tcp:51390:25"/>
+                  <figure>
+                     <head>III Fig 7 P.17</head>
+                     <figDesc>turning back in the water</figDesc>
+                  </figure>
+                  <pb facs="tcp:51390:26"/>
+                  <pb n="17" facs="tcp:51390:26"/> along on the Water to sink down, and be ready to be stifled in holding ones Breath. It is usual at first for these Rea<g ref="char:EOLhyphen"/>sons to administer sundry Helps; as, to hold up their Chins, or give them a Bundle of Cork, or Bladders, or Reeds, which are the best helps for Begin<g ref="char:EOLhyphen"/>ners.</p>
+               <p>Take special Care that the Water be not higher than your Breast, nor shal<g ref="char:EOLhyphen"/>lower than up to your Belly. Figure 6.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>III.</hi> How to return back again in Swim<g ref="char:EOLhyphen"/>ming.</head>
+               <p>TO turn back, you must turn the Palm of your Right Hand out<g ref="char:EOLhyphen"/>wards from you, and strike out the Arm the same way, and do exactly the con<g ref="char:EOLhyphen"/>trary with your Left-hand and Arm, striking that inwards the contrary way, embracing as it were the Water on that side. Thus you may turn your self
+<pb n="18" facs="tcp:51390:27"/> also on the Left Side, after having in<g ref="char:EOLhyphen"/>clined your Head, Neck, and the Length of your Body to that side. The 7th Fi<g ref="char:EOLhyphen"/>gure will make you more easily com<g ref="char:EOLhyphen"/>prehend the manner of it.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>IV.</hi> To Swim with the Head erect towards Heaven.</head>
+               <p>THIS way seems difficult, though it imitates that Posture they say is natural to Man, to look upwards; and if we knew how to make use of it, there would not be so many drowned as there daily are; for that happens, be<g ref="char:EOLhyphen"/>cause instead of looking upwards, they look downward with their Heads to<g ref="char:EOLhyphen"/>wards the Bottom, and embrace the Water, as it were with their Arms, in<g ref="char:EOLhyphen"/>somuch that one might say they did all they could on purpose to drown them<g ref="char:EOLhyphen"/>selves. If they would place themselves on their Backs, and keep their Bodies
+<pb facs="tcp:51390:27"/>
+                  <pb facs="tcp:51390:28"/>
+                  <figure>
+                     <head>VI Fig 8 P.19</head>
+                     <figDesc>swimming on one's back</figDesc>
+                  </figure>
+                  <pb n="19" facs="tcp:51390:28"/> extended, they might easily escape, nay could not sink themselves in that Posture if they would; this we find attested by experience; and I never yet met with any Diver that could possibly descend in that Posture, that is, with the Head erect towards Heaven; and if they had a mind to it, they found themselves first obliged to elevate their Arms upright to contract their Thorax or Breast, and when all this is done, find it very difficult to sink, though very slow<g ref="char:EOLhyphen"/>ly, and always come to the Bottom with their Feet first. But to learn to Swim on your Back, observe what fol<g ref="char:EOLhyphen"/>lows.</p>
+               <p>When you are upright in the Water, lie down on your Back very gently, elevate your Breast above the Surface of the Water, and in the mean while keep your Body always extended in the same right Line, your Hands lying on your Belly, striking out and drawing in your Legs successively, and keeping them within two Foot of the Surface of the Water, and govern your self ac<g ref="char:EOLhyphen"/>cording to Figure 8. It is true, there
+<pb n="20" facs="tcp:51390:29"/> will always be great part of the Head under Water, which makes most ten<g ref="char:EOLhyphen"/>der Pates not much care for this way. Notwithstanding which, it is the most easy and safe of any way of Swim<g ref="char:EOLhyphen"/>ming, and that wherein one may con<g ref="char:EOLhyphen"/>tinue longest, for it least tires, and one is not forced to Drink so much Water this way, as when Swimming on the Belly; besides one more easily cuts through the Waves this way, and runs not so great a risque of being entangled among Weeds as on the Belly. At the beginning it will appear difficult, and one can scarce forbear using his Hands. The best way to begin will be by the assistance of some other Hand, or a Bundle of Corks, or Bladders; you have nothing to do but to lye down gently, and take especial care that you don't through fear put down one of your Legs to feel for the Bottom, for you need not fear sinking, and that motion of the Foot is the way to make you do so. You must also take care not to lift your Knees too high, nor sink your Hips and Sides too low,
+<pb n="21" facs="tcp:51390:29"/> but keep your Body extended in the same straight Line as I have already shewn. If you have a mind to turn any ways, and you are not yet very expert, you must turn in Swimming, and taking a Round or Circle; or also while the one Leg lyes still, embrace the water next beside you with the other; thus you will find your self to turn on that side on which your Leg by its motion embraces the water, and you may turn either to the right or left, according as you make use of the right or left Leg for that purpose. Swimmers ought to be acquainted with several ways of turn<g ref="char:EOLhyphen"/>ing themselves backwards, or to one side, as occasion shall require, to avoid meeting Boats, or Weeds, or Rocks, or Shores, and a thousand other acci<g ref="char:EOLhyphen"/>dents. There are several ways of do<g ref="char:EOLhyphen"/>ing it, I design here to shew them all; and first that way which is called the <hi>Easie Turn.</hi>
+               </p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="22" facs="tcp:51390:30"/>
+               <head>
+                  <hi>V.</hi> How to turn in the Water.</head>
+               <p>TO turn easily you must incline your Head and Body to the side you would turn to, and at the same time move and turn your Legs after the same manner, as you would do to turn the same way on Land, this hinders and stops the motion of your Body forwards, all at once. <hi>Fig.</hi> 9.</p>
+               <p>If you would turn to the left, you must turn the thumb of your right hand to<g ref="char:EOLhyphen"/>wards the bottom, and with the Palm open, but somewhat bent, drive off the water 'foreright from that side, and at the same time with the left hand open, and fingers close drive the water on that side backwards, and at once turn your Body and Face to the left. If you would turn to the right, you must do just the same things contrariwise. If any one ask of what advantage this turn may
+<pb facs="tcp:51390:30"/>
+                  <figure>
+                     <head>V Fig 10 P.23</head>
+                     <figDesc>"Ringing the Bells" turn in the water</figDesc>
+                  </figure>
+                  <pb facs="tcp:51390:31"/>
+                  <pb n="23" facs="tcp:51390:31"/> be? its use is very great in retiring from dangers that may happen. As suppose you met any floating Timber, or any thing else that you were obli<g ref="char:EOLhyphen"/>ged to avoid. It is also useful for help<g ref="char:EOLhyphen"/>ing others that are in danger. But you must take especial care, that in turn<g ref="char:EOLhyphen"/>ing after this way, your Legs are not open, and that you have water enough, for fear of hurting your Back-parts a<g ref="char:EOLhyphen"/>gainst the ground.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>
+                  <hi>V.</hi> The Turn called Ringing the Bells.</head>
+               <p>THIS way of Turning is at least of as great use as the precedent. You have no need of much room for it, and may do it either Swimming on the B<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ck or B<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lly, and you go con<g ref="char:EOLhyphen"/>trary in the one to what you do in the other. If you swim on your Belly, you mu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> on<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> draw in your f<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et,
+<pb n="24" facs="tcp:51390:32"/> and strike them out forwards, as you did before backwards, at the same time striking out your hands backwards, and putting your Body in an upright posture. <hi>Fig.</hi> 10.</p>
+               <p>If you swim on your Back, you must at once draw in your Legs to<g ref="char:EOLhyphen"/>wards your Buttocks, and striking them down towards the bottom, cast your Body forwards till you are turned on your Belly, but you must take heed that you have water sufficient, and that there are no Weeds at bottom, which have sometimes proved fatal to the best Swimmers.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>
+                  <hi>VII.</hi> Another way of Turning or Rowling round.</head>
+               <p>THERE is another way of turn<g ref="char:EOLhyphen"/>ing from the right to the left, and contrariwise, as a Globe does about its
+<pb facs="tcp:51390:32"/>
+                  <pb facs="tcp:51390:33"/>
+                  <figure>
+                     <head>VII P.25</head>
+                     <figDesc>a rolling turn in the water</figDesc>
+                  </figure>
+                  <pb n="25" facs="tcp:51390:33"/> Axis. If you swim on your Belly, and would turn to the left, you must extend your right hand and arm as far out before you as you can, and turn your Face, Breast, and whole Body to the left, lifting up your right hand to<g ref="char:EOLhyphen"/>wards the top of the water, and you'l find your self on your Back, and from your Back you may turn again on your Belly, and so as often as you please. And to the end those Changes of Po<g ref="char:EOLhyphen"/>stures may be performed with speed and agility, you must take care to keep your Legs close together, and your Arms must be stretched out right be<g ref="char:EOLhyphen"/>fore your Breast, but not separated far one from another. The Figure and practical part of this way of Exerci<g ref="char:EOLhyphen"/>sing will make you more easily com<g ref="char:EOLhyphen"/>prehend the business than any Rules in words can.</p>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="26" facs="tcp:51390:34"/>
+               <head>
+                  <hi>VIII.</hi> To Swim on the Back.</head>
+               <p>ALthough there is not much occasi<g ref="char:EOLhyphen"/>sion for any great motion of the hands for those that swim on their Backs; yet if you design to make any great advances forward, you must use both your Feet and Hands too. This way is chiefly useful for Swimming a<g ref="char:EOLhyphen"/>gainst waves, and carries swifter than Swimming on the Belly. The Thir<g ref="char:EOLhyphen"/>teenth Figure will make you compre<g ref="char:EOLhyphen"/>hend this method better than any Lessons we can give you in words.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>
+                  <hi>IX.</hi> To Swim Backwards.</head>
+               <p>WE go backwards, when lying on the Back we push our selves onward with our Feet and Legs; but to
+<pb facs="tcp:51390:34"/>
+                  <figure>
+                     <head>VIII P.26</head>
+                     <figDesc>swimming on the back using hands too</figDesc>
+                  </figure>
+                  <pb facs="tcp:51390:35"/>
+                  <figure>
+                     <head>IX P.27</head>
+                     <figDesc>restful backward swimming</figDesc>
+                  </figure>
+                  <pb n="27" facs="tcp:51390:35"/> do the contrary, and advance forward, we must, lying always on the Back, keep the Body extended at full length in a straight line, the Breast inflated, so that that part of the Back which is be<g ref="char:EOLhyphen"/>tween the Shoulders must be concave (or hollow) and sunk down i'th Water, the Hands on the Belly. Being, I say, in this posture, you must lift up your Legs one after another, and draw them back with all the force you can to<g ref="char:EOLhyphen"/>wards your Hams, letting them fall into the water, for thus you will return to the place whence you came. This way is not only very pleasant, but also when you find your self weary sometimes with Swimming, and far distant from the Shore, it may be useful to rest your self, and give you time to recruit your Spirits.</p>
+            </div>
+            <div n="10" type="chapter">
+               <pb facs="tcp:51390:36"/>
+               <head>
+                  <hi>X.</hi> To turn ones self lying along.</head>
+               <p>IT seems at first sight as if to turn ones self, and turn ones self lying a<g ref="char:EOLhyphen"/>long, were the same thing; but if you inspect the matter more nearly, you'l find that in the Seventh Section you turn your Body very quick about; but to turn lying along, you must keep your self in a posture extended and lying on the Back, the top of your arms close to your sides, turning the lowest Joint of your right hand outwards; the Legs at di<g ref="char:EOLhyphen"/>stance one from another at least a foot, or thereabouts, the soals of your Feet turned towards the bottom of the Wa<g ref="char:EOLhyphen"/>ter. In this posture you may turn, as you please, towards the right or left side. This may be serviceable in seve<g ref="char:EOLhyphen"/>ral rencounters; for it often happens that a person Swimming on his Back, may be forced against a Bank, or among
+<pb facs="tcp:51390:36"/>
+                  <figure>
+                     <head>X P.28</head>
+                     <figDesc>turn lying along in the water</figDesc>
+                  </figure>
+                  <pb facs="tcp:51390:37"/>
+                  <figure>
+                     <head>XI P.29</head>
+                     <figDesc>swimming in a circle</figDesc>
+                  </figure>
+                  <pb facs="tcp:51390:37"/> Weeds; wherefore a ready way of turn<g ref="char:EOLhyphen"/>ing is very proper to avoid those sorts of dangers. But notwithstanding these me<g ref="char:EOLhyphen"/>thods of Escapes, it is not safe to venture among such sorts of dangers, especially Weeds; for some time or other one may be catched. There is another way of disengaging ones self from Weeds, which I will shew in the following Section.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>
+                  <hi>XI.</hi> To make a Circle.</head>
+               <p>THE Circle (or entire Compass) is made, when one foot remain<g ref="char:EOLhyphen"/>ing immovable, the other turns round, and describes a Circle, ending where it began: In the same manner the Head may remain immovable, while the Legs strike the Water, and make the Body turn round. To perform this, the Bo<g ref="char:EOLhyphen"/>dy, lying on the Back, if you would begin to turn from the right to the left,
+<pb n="30" facs="tcp:51390:38"/> you must first sink your left side some<g ref="char:EOLhyphen"/>what more towards the bottom than the other, and lift out of the Water your Legs successively, first the left, than the right, and at each of these motions ad<g ref="char:EOLhyphen"/>vance your Legs onwards about a foot each towards the left side, your Head remaining still in the same place; the froth on the surface of the Water will note the parts of the Circle you have described. This way may serve to re<g ref="char:EOLhyphen"/>move any thing from ones Head (or feet) that may offend, which too often happens in the Water. In the practise of it you must take care not to ele<g ref="char:EOLhyphen"/>vate your Feet too high in the Air, for that would sink down the Head in the Water; nor to strike the Water too hard with your Feet, by reason it causes a disagreeable noise.</p>
+               <pb n="31" facs="tcp:51390:38"/>
+               <pb facs="tcp:51390:39"/>
+               <p>
+                  <figure>
+                     <head>XII P.31</head>
+                     <figDesc>turn while staying upright</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div n="12" type="chapter">
+               <pb facs="tcp:51390:39"/>
+               <head>
+                  <hi>XII.</hi> To turn ones self in the Water, being in an upright Posture.</head>
+               <p>BEing in the Water in a posture up<g ref="char:EOLhyphen"/>right, you may turn and view every thing successively round about you. You may see that I am indeed upright, but to make you understand those mo<g ref="char:EOLhyphen"/>tions of my Feet which you cannot see; suppose I have a mind to turn to the right, in the first place I do, as it were embrace the Water with the soal of my right foot, and afterwards with that of my left, and in the mean while I in<g ref="char:EOLhyphen"/>cline my Body towards the left; I also draw as much as I can the Water to<g ref="char:EOLhyphen"/>wards me with my hands, and after<g ref="char:EOLhyphen"/>wards drive it off again; I draw it first with my left hand, and after with the right, and having so drawn it towards me, drive it off again. This manner of Swimming may be very useful; it is
+<pb n="32" facs="tcp:51390:40"/> very serviceable to know what happens on every side. Suppose you are in the Sea, you may this way find a place to land on, or where to attack any Ene<g ref="char:EOLhyphen"/>my that might happen to follow you, or avoid his attacks; or if you have a mind to fight him in the Water, it shews how to do it to most advantage, and to turn your self on all sides. There are several other different man<g ref="char:EOLhyphen"/>ners of turning ones self in the Water, and among them some that are very curious and pleasant, but are only for those to practise that are very expert in this art.</p>
+            </div>
+            <div n="13" type="chapter">
+               <head>XIII. To advance forwards in Swimming, with the hands joined together.</head>
+               <p>THIS is one of the first and most simple ways of Swimming, and is also very graceful. In the pra<g ref="char:EOLhyphen"/>ctise of it you hold your Hands joined
+<pb facs="tcp:51390:40"/>
+                  <figure>
+                     <head>XIII P.32</head>
+                     <figDesc>swimming forward with joined hands</figDesc>
+                  </figure>
+                  <pb facs="tcp:51390:41"/>
+                  <figure>
+                     <head>XIV P.33</head>
+                     <figDesc>swim forward with joined hands</figDesc>
+                  </figure>
+                  <pb n="33" facs="tcp:51390:41"/> ther, drawing them in towards the Breast, and successively striking them out again. The two Hands remain all the while joined, insomuch that the Thumbs and Fingers being turned to<g ref="char:EOLhyphen"/>wards the surface of the water, seem to be out of it. Besides the gracefulness of this way of Swimming, it is moreover serviceable for traversing, or Swimming cross a heap of Weeds, &amp;c. for the Hands being thus joined as it were in a point, open a passage for you through Weeds or Reeds, if they chance to op<g ref="char:EOLhyphen"/>pose you, especially if you take care not to strike your hands out too far.</p>
+            </div>
+            <div n="14" type="chapter">
+               <head>XIV. To Swim neither on Back nor Belly.</head>
+               <p>SUppose you Swim on your Back, or Belly, lower, or sink your left side, and at the same time elevate your right one. In Swimming, when you are thus laid, move your left hand as often as
+<pb n="34" facs="tcp:51390:42"/> you see convenient, without either sepa<g ref="char:EOLhyphen"/>rating it far from your Body, or sinking it, perpetually striking it out, and re<g ref="char:EOLhyphen"/>tracting it, as in a right line on the sur<g ref="char:EOLhyphen"/>face of the water. Besides the pleasure of Swimming thus, you may also find an advantage by viewing as you please either side of a River, and that one side may rest while the other is employ'd.</p>
+            </div>
+            <div n="15" type="chapter">
+               <head>XV. To Swim on the Belly holding both your hands still.</head>
+               <p>THIS is easily performed in man<g ref="char:EOLhyphen"/>ner following. You must keep your Breast advancing forward, your Neck upright on the water, both your Hands fast behind your Head, or on your Back, while in the mean time your Legs and Thighs push you forward by the same motions you make when you Swim (as at other times) on your Bel<g ref="char:EOLhyphen"/>ly.
+<pb facs="tcp:51390:42"/>
+                  <figure>
+                     <head>XV P.34</head>
+                     <figDesc>swimming on one's belly with hands still</figDesc>
+                  </figure>
+                  <pb facs="tcp:51390:43"/>
+                  <pb n="35" facs="tcp:51390:43"/> This way of Swimming may be useful, in case any accident, as the Cramp, <hi>&amp;c.</hi> should happen to your Arms, or if you were forced on occasion to Swim with your Hands tyed behind you, or in case you were a Prisoner, and your Life or Liberty depended on it. The same thing may be performed by pla<g ref="char:EOLhyphen"/>cing your self on the Back, but the other way is most advantageous, because you may see your way before you; and those that Swim on the Back are ob<g ref="char:EOLhyphen"/>liged to turn themselves often for that purpose. Besides the Hands are here at rest, but must be employ'd if you turn your self on your Back.</p>
+            </div>
+            <div n="16" type="chapter">
+               <head>XVI. To carry the left Leg in the right hand.</head>
+               <p>THIS is performed, when, in Swimming on the Belly, you lift up your Leg, and moving it towards the Buttocks you take hold of it with
+<pb n="36" facs="tcp:51390:44"/> the hand of the opposite side, continu<g ref="char:EOLhyphen"/>ing in the mean while to Swim with the Leg and other hand which are at liber<g ref="char:EOLhyphen"/>ty. This method may be serviceable in cases of the Cramp, or Gout, or if one Leg should be intangled among Weeds; for by this manner you may easily break through 'em: but if you should chance to find your self engaged wholly among Weeds on every side, the follow<g ref="char:EOLhyphen"/>ing method will be most proper.</p>
+            </div>
+            <div n="17" type="chapter">
+               <head>XVII. To Swim like a Dog.</head>
+               <p>YOU are not to imagine that this way is difficult, for it is so far from it, that several who never knew how to Swim before, in practising of it by chance, have kept themselves a<g ref="char:EOLhyphen"/>bove water. To Swim like a Dog, you must elevate or lift up and depress one hand successively after another, and do the same also with your Feet, only with
+<pb facs="tcp:51390:44"/>
+                  <figure>
+                     <head>XVII P.36</head>
+                     <figDesc>swimming like a dog</figDesc>
+                  </figure>
+                  <pb facs="tcp:51390:45"/>
+                  <pb n="37" facs="tcp:51390:45"/> this difference, that with your hands you must draw the water towards you, and with your Feet drive it from you; you must begin with the right hand, and right foot, and afterwards withy the left hand and foot, and so successively. This way of Swimming is very useful for disengaging ones self from Weeds under water. But here follow other more easie methods to avoid the same danger by Swimming on the Back, whereof the first is very pleasant.</p>
+               <p>
+                  <hi>The</hi> XVIII. <hi>Chapter is the same with ihe</hi> XV.</p>
+            </div>
+            <div n="19" type="chapter">
+               <head>
+                  <hi>XIX.</hi> To beat Water.</head>
+               <p>YOU strike the water with your right and left Legs; the manner of it is very pleasant, when Swimming on the back, at each Extension of the Legs, lifting them up out of the water
+<pb n="38" facs="tcp:51390:46"/> one after the other, you strike the wa<g ref="char:EOLhyphen"/>ter so that it rebounds up into the air. Those who are most expert at this, bring their Chins towards their breast at each extension. There are some who not satis<g ref="char:EOLhyphen"/>fied with going so far only, to perform the business more gracefully, lift up their Legs much higher than others, strike the water, each Extension, sometimes with the right Leg, sometimes with the left, and at the same time turn the whole body. This is the most agree<g ref="char:EOLhyphen"/>able manner of all the rest. To per<g ref="char:EOLhyphen"/>form this, you must keep your body Extended on your back, expand or in<g ref="char:EOLhyphen"/>flate your breast, and keep it almost out of water, the Palms of both your Hands extended and turned towards the bottom; for it is the office of the Hands to keep up the body while you strike and open the Legs; but if at the same time you have a mind to beat water, and turn your self, in that case supposing your right Leg is up out of the water, you must strike the water with that, and at the same time lift up the left Leg, and by the same acti<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:51390:46"/>
+                  <figure>
+                     <head>XIX P.38</head>
+                     <figDesc>beating water</figDesc>
+                  </figure>
+                  <pb facs="tcp:51390:47"/>
+                  <pb facs="tcp:51390:47"/>
+                  <figure>
+                     <head>XX P.39</head>
+                     <figDesc>lifting one foot out of the water</figDesc>
+                  </figure>
+                  <pb facs="tcp:51390:48"/>
+                  <pb n="39" facs="tcp:51390:48"/> turn your whole body. This agility makes Swimming very easie, and does not require so much force as the follow<g ref="char:EOLhyphen"/>ing.</p>
+            </div>
+            <div n="20" type="chapter">
+               <head>
+                  <hi>XX.</hi> To keep one Foot at liberty.</head>
+               <p>THese easie ways of Swimming, or rather refinements, seem more for diversion than advantage; yet not<g ref="char:EOLhyphen"/>withstanding there is not one of them but what may be serviceable in some of those numerous rencounters which happen to Swimmers. As for Example, This may serve to disengage ones Feet from Weeds, and that after a free fear<g ref="char:EOLhyphen"/>less manner, which shews the Swimmer to be Master of his Art. He turns him<g ref="char:EOLhyphen"/>self sometimes to the right, sometimes to the left, having always one Leg up out of the water, looking about him, bringing in his Chin always towards
+<pb n="40" facs="tcp:51390:49"/> his Breast. It is more difficult than it seems to be at first sight; for if the breast is not inflated, the Palms of the Hands extended, and turned downwards toward the bottom, and if the other Leg is not employ'd in the water; in short, if you miss of any one of these things, your head immediately sinks down: Thus the address, or manage<g ref="char:EOLhyphen"/>ment of it is difficult; but the recom<g ref="char:EOLhyphen"/>pence (when learn'd) satisfactory, and very useful, as I have shewn in disenga<g ref="char:EOLhyphen"/>ging ones self from Weeds. Here fol<g ref="char:EOLhyphen"/>lows another method more easie.</p>
+            </div>
+            <div n="21" type="chapter">
+               <head>
+                  <hi>XXI.</hi> To shew both Feet out of the Water.</head>
+               <p>ONE may Swim holding both Feet out of the water, and this is ve<g ref="char:EOLhyphen"/>ry easie: You may also not only remain so in one place, but also make advances forwards. You must place your self on
+<pb facs="tcp:51390:49"/>
+                  <figure>
+                     <head>XXI P.40</head>
+                     <figDesc>lifting both feet out of the water</figDesc>
+                  </figure>
+                  <pb facs="tcp:51390:50"/>
+                  <figure>
+                     <head>XXII P.41</head>
+                     <figDesc>suspension by the chin</figDesc>
+                  </figure>
+                  <pb n="41" facs="tcp:51390:50"/> the back, and bend the small of it, con<g ref="char:EOLhyphen"/>trariwise to what is practised in other ways of Swimming; your hands must be on your belly, the Palms of them open, moving them to and fro, like Oars, which must sustain your body while your Feet are shewn. This way of Swim<g ref="char:EOLhyphen"/>ming will serve to shew you whether your Feet are clean or not, after having taken them from the bottom.</p>
+            </div>
+            <div n="22" type="chapter">
+               <head>
+                  <hi>XXII.</hi> Suspension by the Chin.</head>
+               <p>YOU cannot easily imagine how this manner of Swimming is per<g ref="char:EOLhyphen"/>formed, it is indeed very surprizing. By this means you may stand upright in the water though never so deep, with<g ref="char:EOLhyphen"/>out fear of sinking. To make you comprehend it, you are to remember that when you Swim on your back, you lye still, your Legs being extended: VVhen you find your self in that po<g ref="char:EOLhyphen"/>sture,
+<pb n="42" facs="tcp:51390:51"/> you must let your Legs go down or sink; and when they come to be per<g ref="char:EOLhyphen"/>pendicular to the bottom, you must take them up again, bending your knees, inflating your breast, and as to the Arms and Hands, whereof the back-parts lye flat on the water by the shoulders, you must sometimes extend them on the one side, sometimes on the other, sometimes shut them, turning the Palms towards the bottom, the fingers close to one an<g ref="char:EOLhyphen"/>other, holding your Chin as upright as possible. This way which seems so sur<g ref="char:EOLhyphen"/>prizing, is sometimes very useful; sup<g ref="char:EOLhyphen"/>pose at any time, the Ice should happen to break under your Feet, this way will be of vast advantage to secure your self from the danger. It may also be very advantageous in case a man is obliged to save himself from some enemy pur<g ref="char:EOLhyphen"/>suing, by leaping into the water in a dark night; for in that case, one may wait, without making any noise, till he is passed by, and then go again on shore.</p>
+               <pb facs="tcp:51390:51"/>
+               <pb facs="tcp:51390:52"/>
+               <p>
+                  <figure>
+                     <head>XXIII P.43</head>
+                     <figDesc>treading water</figDesc>
+                  </figure>
+               </p>
+               <pb n="43" facs="tcp:51390:52"/>
+            </div>
+            <div n="23" type="chapter">
+               <head>
+                  <hi>XXIII.</hi> To tread Water.</head>
+               <p>BY this way you remain upright in the water without making any motion with your hands, only you move the water round with your Legs from you, the Soals of your Feet being perpendicular to the bottom; you may make use of this if you are cast into the water bound hand and foot. Swim<g ref="char:EOLhyphen"/>ming on the belly is also serviceable in this rencounter. This way of Swim<g ref="char:EOLhyphen"/>ming is very advantageous, for it leaves us the free use of the hands. One may make use of it in defending ones self; but it ought not to be practis'd where the bottom is full of Rushes or VVeeds, for they may entangle one of the Legs; and in such case you may use the Me<g ref="char:EOLhyphen"/>thod following.</p>
+            </div>
+            <div n="24" type="chapter">
+               <pb n="44" facs="tcp:51390:53"/>
+               <head>
+                  <hi>XXIV.</hi> Changing Hand and Foot.</head>
+               <p>WITH the right Hand you hold the left Foot, and contrariwise; but you must change those holds by a speedy letting or striking down the Foot held up. This may be useful for taking of VVeeds from the Legs, and freeing them, when they are both engaged a<g ref="char:EOLhyphen"/>mongst them.</p>
+            </div>
+            <div n="25" type="chapter">
+               <head>
+                  <hi>XXV.</hi> To Swim having the Legs tyed together.</head>
+               <p>THE Legs being bound either by VVeeds, or otherwise, you must turn on your Back, and laying your Hands across on your breast, for in that posture you may gain the shore by stri<g ref="char:EOLhyphen"/>king your Legs one against another,
+<pb facs="tcp:51390:53"/>
+                  <figure>
+                     <head>XVI P.35 &amp; 44</head>
+                     <figDesc>swim while changing hand and foot</figDesc>
+                  </figure>
+                  <pb n="44" facs="tcp:51390:54"/>
+                  <pb facs="tcp:51390:54"/>
+                  <figure>
+                     <head>XXV P.44</head>
+                     <figDesc>swimming with legs tied together</figDesc>
+                  </figure>
+                  <pb facs="tcp:51390:55"/>
+                  <figure>
+                     <head>XXVI P.45</head>
+                     <figDesc>to creep in the water</figDesc>
+                  </figure>
+                  <pb n="45" facs="tcp:51390:55"/> and holding them up as much as you can.</p>
+            </div>
+            <div n="26" type="chapter">
+               <head>
+                  <hi>XXVI.</hi> To Creep.</head>
+               <p>THE action of Swimming in Man, is very like the motion of Creeping in Reptiles; as suppose a Snake, for ex<g ref="char:EOLhyphen"/>ample, who resting or stopping first, with his fore parts, draws the rest of the body towards them; and it is a way very serviceable to get clear of Weeds. To practise it, being upon the Belly you cast your Hands forwards, and your Feet softly backwards, but close together, and thus you advance, extending your Arms and Hands as far from your Breast as possible, your Fin<g ref="char:EOLhyphen"/>gers close, and the Palms of your Hands a little bent, turned towards the bottom; for being in this posture, if you draw towards your Breast with your Hands
+<pb n="46" facs="tcp:51390:56"/> and Arms, the water that is before you, by that you give time to the rest of your body, to advance further, and to disengage your self from the Weeds, if you are intangled in them, which must not be done with too much haste or force; for if you strike out your Hands and Arms too vigorously, you will entan<g ref="char:EOLhyphen"/>gle your self more among them, and when they have once caught you fast, you are in danger of perishing, if timely help don't come to relieve you.</p>
+            </div>
+            <div n="27" type="chapter">
+               <head>
+                  <hi>XXVII.</hi> To Sit in the Water.</head>
+               <p>EXpert Swimmers can do whatever they please in the water; they can walk there, stand still upright, or lye still, or sit down. To Sit, you must take both your Legs in your Hands, draw in your Breath, and so keep your Breast inflated; your Head upright, and lift<g ref="char:EOLhyphen"/>ing up successively your Arms and Legs,
+<pb facs="tcp:51390:56"/>
+                  <figure>
+                     <head>P.46</head>
+                     <figDesc>sit in the water</figDesc>
+                  </figure>
+                  <pb facs="tcp:51390:57"/>
+                  <figure>
+                     <head>XXVIII P.47</head>
+                     <figDesc>to cut one's toenails in the water</figDesc>
+                  </figure>
+                  <pb n="47" facs="tcp:51390:57"/> by that motion sustain your self, as the Figure shews. This way may be service<g ref="char:EOLhyphen"/>able to pluck off Weeds which may happen to entangle and hang about your Legs, as also to sustain or keep ones self above water in places where there is not room enough to Swim, or the Ground muddy, or otherwise disob<g ref="char:EOLhyphen"/>liging to the Feet, so that you care not to set them down.</p>
+            </div>
+            <div n="28" type="chapter">
+               <head>
+                  <hi>XXVIII.</hi> To cut the Nails of the Toes in the Water.</head>
+               <p>IT is possible to perform actions in the Water, which one cannot do on Land; I my self have often brought my Great Toe to my Lips in the Water, which I could never do on Land, nor on my Bed. You must hold your Knife in your right hand (if you are right<g ref="char:EOLhyphen"/>handed) and take up your left Leg, and lay the Foot on the right Knee;
+<pb n="48" facs="tcp:51390:58"/> there you may take it from the left hand, and with the right cut your Nails without any danger. Thus you may al<g ref="char:EOLhyphen"/>so pick your Toes; and if this way has no other use or advantage, yet the dex<g ref="char:EOLhyphen"/>terity of the management may serve to recommend it.</p>
+            </div>
+            <div n="29" type="chapter">
+               <head>
+                  <hi>XXIX.</hi> To shew out of the Water four Parts of the Body.</head>
+               <p>THIS manner shews at once four Parts of the Body, <hi>viz.</hi> the Head, the two Elbows, and one Knee; you lift up one Knee, and place it upon the other by turning it, while in the mean time you lift up and depress the other successively, keeping in the interim your Elbows elevated, your Breast inflated and elevated as much as possible, and all lying on the Back. Besides the ma<g ref="char:EOLhyphen"/>nagement of this method, and the dif<g ref="char:EOLhyphen"/>ficulty of doing it well, it is serviceable
+<pb facs="tcp:51390:58"/>
+                  <pb facs="tcp:51390:59"/>
+                  <figure>
+                     <head>XXIX P.48</head>
+                     <figDesc>swimming while showing four body parts out of the water</figDesc>
+                  </figure>
+                  <pb facs="tcp:51390:59"/>
+                  <pb facs="tcp:51390:60"/>
+                  <figure>
+                     <head>XXX P.49</head>
+                     <figDesc>swim holding one leg out of the water</figDesc>
+                  </figure>
+                  <pb n="49" facs="tcp:51390:60"/> to rest your self by putting one Thigh across the other, and to take breath where the water is so deep that you cannot reach the bottom.</p>
+            </div>
+            <div n="30" type="chapter">
+               <head>
+                  <hi>XXX.</hi> To Swim holding up one Leg.</head>
+               <p>THIS way seems at first sight to be the same with that of shew<g ref="char:EOLhyphen"/>ing the Feet out of the water, which we have already taught, but it is very different from it; for while you hold up one of your Legs, both your hands must embrace and gather together (as it were) the waters, striking them un<g ref="char:EOLhyphen"/>der you, and driving them off; the o<g ref="char:EOLhyphen"/>ther Leg must not be lifted up above half way, beating the water frequently therewith by quick and short strokes. This is an easie way to carry any thing from one side of a River to the other, by fastning it to your great Toe; but
+<pb n="50" facs="tcp:51390:61"/> you may perform the same thing more easily as follows.</p>
+            </div>
+            <div n="31" type="chapter">
+               <head>
+                  <hi>XXXI.</hi> To Swim holding up the Hands.</head>
+               <p>WHile you Swim on your Back, it is easie to put your hands to what use you please, but it is difficult to hold them upright, and Swim at the same time too. It would appear at first sight as if this were the most easie of any method we have yet taught. You must take care lest while you lift up your Arms, the Thorax or Breast be not con<g ref="char:EOLhyphen"/>tracted, for so you sink. The whole Art of this way of Swimming consists in heaving up the Breast as high, and keeping it inflated as much as possible, while your Arms are held up.
+<pb facs="tcp:51390:61"/>
+                  <figure>
+                     <head>XXXI P.50</head>
+                     <figDesc>swim holding up the hands</figDesc>
+                  </figure>
+                  <pb facs="tcp:51390:62"/>
+                  <figure>
+                     <head>XXXII P.51</head>
+                     <figDesc>'booting' in the water</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div n="32" type="chapter">
+               <pb n="51" facs="tcp:51390:62"/>
+               <head>
+                  <hi>XXXII.</hi> To Boot ones self in the Water.</head>
+               <p>I Call this way by the name of Booting or drawing on ones Boots, because the action very much resembles a Man doing so. You must first lift up one Leg out of the water, and afterwards the other, and take the foot in your hands as those do who are drawing on their Boots, and presently after let it go again, ex<g ref="char:EOLhyphen"/>tending it out at length. The manage<g ref="char:EOLhyphen"/>ment of this way consists in keeping up your Breast as high as you can, and as much inflated as possible, and also the one Leg up out of the water while the other is continually playing down<g ref="char:EOLhyphen"/>wards. This way may be very commo<g ref="char:EOLhyphen"/>dious for cleaning your Feet from mud, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="33" type="chapter">
+               <pb n="52" facs="tcp:51390:63"/>
+               <head>
+                  <hi>XXXIII.</hi> The Leap of the Goat.</head>
+               <p>IT is called so by reason you imitate the Leaping of Goats in the motions of the Feet. To perform it you must have both courage and strength. You must keep your Breast inflated, and strike with both your hands the water on each side, by thick short strokes three or four times, but more forcibly the last time than the others; while you are doing thus, you must lift up your Feet quite out of the water, and rub them one against the other, as you see com<g ref="char:EOLhyphen"/>monly done in cutting of Capers. This is one of the most difficult but most in<g ref="char:EOLhyphen"/>genious pieces of Art belonging to Swim<g ref="char:EOLhyphen"/>ming, and when you are arrived to it, you may say you have master'd one of the most difficult points in the whole Art: For it is as difficult as to Swim un<g ref="char:EOLhyphen"/>der water, to which there is required a
+<pb facs="tcp:51390:63"/>
+                  <figure>
+                     <head>XXXIII P.52</head>
+                     <figDesc>swimming trick: the leap of the goat</figDesc>
+                  </figure>
+                  <pb facs="tcp:51390:64"/>
+                  <pb facs="tcp:51390:64"/>
+                  <figure>
+                     <head>XXXIV P.53</head>
+                     <figDesc>to dive</figDesc>
+                  </figure>
+                  <pb facs="tcp:51390:65"/>
+                  <pb n="53" facs="tcp:51390:65"/> great deal of artificial management; which now I come to shew, as far as I am acquainted with it. The first step is to learn to Dive.</p>
+            </div>
+            <div n="34" type="chapter">
+               <head>
+                  <hi>XXXIV.</hi> To Dive.</head>
+               <p>IF Men sink to the bottom of the wa<g ref="char:EOLhyphen"/>ter, it is their own fault, nature has laid no necessity on 'em of doing so; nay there is not only occasion for force and strength to come thither, but also Art to do it safely, speedily, and handsome<g ref="char:EOLhyphen"/>ly; but those who are expert at Swim<g ref="char:EOLhyphen"/>ming do it, on occasion, as swift as an Arrow, and descend perpendicularly or obliquely as they please. The first way of doing it is, to begin standing on your feet touching the bottom; then after<g ref="char:EOLhyphen"/>wards rise up, your head bowed down, so that your Chin must touch your Breast; the crown of your head being turned towards the bottom, holding the
+<pb facs="tcp:51390:66"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="55" facs="tcp:51390:66"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="54" facs="tcp:51390:67"/> backs of your hands close together, right before your head, and sinking or stri<g ref="char:EOLhyphen"/>king them down first with all the swift<g ref="char:EOLhyphen"/>ness and exactness you can; thus you may Dive to the bottom, and this is the first way I ordinarily teach.</p>
+            </div>
+            <div n="35" type="chapter">
+               <head>
+                  <hi>XXXV.</hi> To Perpendicular Descent.</head>
+               <p>THIS is proper for those who leap off from any height into the wa<g ref="char:EOLhyphen"/>ter, as from a Bridge or Ship: This is performed by taking a leap a little for<g ref="char:EOLhyphen"/>wards, and sometimes upwards, that your descent may be more perpendicu<g ref="char:EOLhyphen"/>lar, or swifter to the bottom, and also that your head may go perpendicularly downwards. This way is very Commo<g ref="char:EOLhyphen"/>dious, when you have a very deep wa<g ref="char:EOLhyphen"/>ter, and it cannot be performed after any more ready method, because of the difficulty of long holding ones breath.
+<pb facs="tcp:51390:67"/>
+                  <figure>
+                     <head>XXXV P.54</head>
+                     <figDesc>perpendicular descent</figDesc>
+                  </figure>
+                  <pb facs="tcp:51390:68"/>
+                  <figure>
+                     <head>XXXVI P.55</head>
+                     <figDesc>swimming underwater</figDesc>
+                  </figure>
+                  <pb n="55" facs="tcp:51390:68"/> However it is seldom put in practice by reason of the dangers which attend it: But the following method is free from danger, and also otherwise very plea<g ref="char:EOLhyphen"/>sant.</p>
+            </div>
+            <div n="36" type="chapter">
+               <head>
+                  <hi>XXXIV.</hi> To Swim under Water.</head>
+               <p>IN the first place you are to deter<g ref="char:EOLhyphen"/>mine whether you are to Swim at bottom of the water, or near the sur<g ref="char:EOLhyphen"/>face, or in the middle between both. You first of all dive down; the two hands must be turned back to back, and close to one another; after which you must extend them with all the swiftness you can, your Thumbs turned upwards, and your for<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-finger towards the bot<g ref="char:EOLhyphen"/>tom; and if you have a mind to de<g ref="char:EOLhyphen"/>scend yet lower, you must as your hands are extended still strike them down lower in the water. If contrariwise you would reascend towards the surface of
+<pb n="56" facs="tcp:51390:69"/> the water, you must keep the Palms of your hands open, and your Thumbs to<g ref="char:EOLhyphen"/>wards one another, as when you Swim on your-Belly, the Palms of your hands be<g ref="char:EOLhyphen"/>ing towards the bottom, and your two Thumbs, as I have just now said, to<g ref="char:EOLhyphen"/>wards one another.</p>
+               <p>He that would Swim in the middle, or between top and bottom, must grasp with both his Arms the water before him, attracting it towards him, keep<g ref="char:EOLhyphen"/>ing in the mean while his Thumbs turn<g ref="char:EOLhyphen"/>ed more towards the bottom of the wa<g ref="char:EOLhyphen"/>ter, than the rest of his hands. You may have occasion to Swim thus, when you are to seek for any thing at bottom of the water, or to pass unseen from one shore to another; sometimes also to help one in danger of drowning. But in this last case you must take heed not to come too near neither under water, nor on the surface to any one in that dan<g ref="char:EOLhyphen"/>ger; for if such an one takes hold of you, you are certainly lost.</p>
+               <p>To proceed therefore in that case safely, you must keep at distance, as ten or twelve foot off; your best way will
+<pb facs="tcp:51390:69"/>
+                  <pb facs="tcp:51390:70"/>
+                  <figure>
+                     <head>XXXVII P.57</head>
+                     <figDesc>returning to the surface after a dive</figDesc>
+                  </figure>
+                  <pb n="57" facs="tcp:51390:70"/> be not to lay hold on him till he is quite sunk down, and lost the use of his sight; and if you have observed the place where he is, you may endeavour to take hold of him by the hair, and so draw him on your back, taking al<g ref="char:EOLhyphen"/>ways care that he does not lay hold on you, or otherwise hamper you; you may thus draw him to some shallow place; or if you have any String or Rope about you leave one end on shore in hands of your Companions, and fa<g ref="char:EOLhyphen"/>sten the other to him, and so let them draw him out.</p>
+            </div>
+            <div n="37" type="chapter">
+               <head>
+                  <hi>XXXVII.</hi> To come to the top of the Water again, after having Dived.</head>
+               <p>AFter you are at bottom, you may return with the same facility; which is performed much after the same way as we have taught before, to turn
+<pb n="58" facs="tcp:51390:71"/> ones self in the water, the person who Swims with one of his hands extended, must push from him the water before him with his Palm, and with the cavity of the other Palm drawing the water that is behind him, towards him; when your hand is extended as far as it can be, the fingers of the hand so extended, and the Palm of that turned outwards, ought to shut or clench; the perfection of this way you'l see as follows.</p>
+            </div>
+            <div n="38" type="chapter">
+               <head>
+                  <hi>XXXVIII.</hi> In Swimming under water to make a Circle.</head>
+               <p>WHEN Swimmers go to search for any thing in the water, they Swim round about the place where the thing was cast in, if they do not find it immediately; by this sort of address they can take up any the least thing that is at the bottom. The manner of
+<pb facs="tcp:51390:71"/>
+                  <figure>
+                     <head>XXXVIII P.59</head>
+                     <figDesc>making a circle underwater</figDesc>
+                  </figure>
+                  <pb facs="tcp:51390:72"/>
+                  <pb n="59" facs="tcp:51390:72"/> making this Compass or Circle is thus: If you would begin the Circle from the right hand, and end it at the left, you must grasp or embrace the water with both your hands from the right to the left, and exactly contrary if you would turn the other way; but when you have Dived perpendicularly down, and can't find what you went to seek, you will be obliged to take such a compass, but don't go so far as to lose the light; for when once that begins to fail you, it is a sign you are either too deep, or under a Boat, or Shore, or something else that inter<g ref="char:EOLhyphen"/>cepts the light. You must always take heed of venturing into such places; and if you should find your self so engaged, call to mind whereabouts, or which way you came thither, and turn back the same way, looking upwards for the light: for you may see it a great way off: above all, take heed you don't go to breathe un<g ref="char:EOLhyphen"/>der water: In case you are afraid of any Enemy that should lay wait for you when you come up again, you must have recourse to the Agility of the Dolphin.</p>
+            </div>
+            <div n="39" type="chapter">
+               <pb n="60" facs="tcp:51390:73"/>
+               <head>
+                  <hi>XXXIX.</hi> The Agility of the Dolphin.</head>
+               <p>THIS way teaches to descend and come up again in the water to take breath, and after having respi<g ref="char:EOLhyphen"/>red, to dive down again. You may Swim fifty paces under water in the Summer, without taking breath, which has saved many Peoples lives. After two or three strokes you must dive, the deeper the better and more safe, so you have the light; you may advance forward, or keep your selfe under water in the same place as long as you can hold your breath: When you can hold it no lon<g ref="char:EOLhyphen"/>ger, you come up to breathe, and then dive again, as often as the necessity of respiration requires. There are several sorts of dangers which may oblige us to take this Method.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <trailer>
+               <pb facs="tcp:51390:73"/>
+               <figure>
+                  <head>XXXIX P.60</head>
+                  <figDesc>swimming trick: agility of the dolphin</figDesc>
+               </figure>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:51390:74"/>
+            <pb facs="tcp:51390:74"/>
+            <head>BOOKS Printed for <hi>DANIEL MIDWINTER,</hi> at the three Crowns in St. <hi>Paul</hi>'s Church-Yard.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>
+                           <seg rend="decorInit">A</seg>DDISON</hi>'s Works, in 4 Vol.</cell>
+                     <cell>Quarto</cell>
+                  </row>
+                  <row>
+                     <cell>— Freeholder alone</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ayre</hi>'s Arithmetick</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>Assize of Bread</cell>
+                     <cell>4to</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Aristole</hi>'s Problems,</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Allin</hi>'s Alarm to the Unconverted</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>Atlas Manuale, by <hi>Moll</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. <hi>Barrow</hi>'s Works, in 2 vol.</cell>
+                     <cell>Folio</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. <hi>Bate</hi>'s Works</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bayle</hi>'s Critical and Historical Dictionary, in 4 Vol.</cell>
+                     <cell>Fol:</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Blount</hi>'s Law Dictionary</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Burnet</hi>'s (Bishop of <hi>Sarum)</hi> Exposition of the 39 Articles</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>— History of the Reformation, in 3 Vol.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>— Abridgment of that History, in 3 Vol.</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>— Collection of Tracts, in 3 Vol.</cell>
+                     <cell>4to</cell>
+                  </row>
+                  <row>
+                     <cell>— Pastoral Care</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— Four Discovrses to his Clergy</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— Memoirs of Queen <hi>Mary</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— Life of the Earl of <hi>Rochester</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Beaumont</hi> and <hi>Fletcher</hi>'s Plays, in 7 Vol.</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bacon</hi>'s Essays</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Boyer</hi>'s French and English Dictionary</cell>
+                     <cell>4to. and 8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Busby</hi>'s Introduction</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bosman</hi>'s Description of the Coast of <hi>Guinea</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bladen Caesar</hi>'s Commentaries</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Brown</hi>'s Treatise of Fines and Recoveries</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Baglive</hi>'s Practice of Physick</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— <hi>de Fibra Motrice</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Baudoin</hi>'s <hi>Esop</hi>'s Fables in English</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Busby</hi>'s Greek Grammar</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Brown</hi>'s Justin in English</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Buchanan</hi>'s History of <hi>Stotland,</hi> in 2 Vol.</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Burket</hi>'s Help</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <pb facs="tcp:51390:75"/>
+                  <row>
+                     <cell>
+                        <hi>Bury</hi>'s Hymns</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Beza</hi>'s Latin Testament</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Beveridge</hi>'s Works</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Biblia Latina, per <hi>Castalio,</hi> in 4 vol.</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Collier</hi>'s Ecclesiastical History, in 2 Vol.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>Collection of Voyages, in 2 Vol.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Comber</hi> on the Common-Prayer, in 2 Vol.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Chillingworth</hi>'s safe Way.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>Collection of Tryals, in 4 Vol.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cave</hi>'s Lives of the Primitive Fathers</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>— <hi>Historia Literaria,</hi> in 2 Vol.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>— Primitive Christianity</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— Church Government</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>Collection of Voyages and Travels, in 2 Vol.</cell>
+                     <cell>4to</cell>
+                  </row>
+                  <row>
+                     <cell>Counterscuffle, a Poem</cell>
+                     <cell>4to</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Chichley</hi>'s Life</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>Causes of Corruption of Christians</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>Clerks Guide</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Chale</hi>'s <hi>Euclid</hi>'s Elements</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Chamberlain</hi>'s State of <hi>Britain</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Comber</hi>'s short Discourses on the Common Prayer</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— Companion to the Altar</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cole</hi>'s Latin and English Dictionary</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cumberland</hi> of Jewish Weights</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Clavis Homerica</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cornaro</hi> of Health</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Caesar sine Notis</hi>
+                     </cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cosin</hi>'s Devotions</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dictionarie Oeconomique,</hi> or the Family Dictionary re<g ref="char:EOLhyphen"/>commended by Mr. Bradly, in 2 Vol.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Du Pin</hi>'s Ecclesiastical History, in 6 Vol.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>— Canon of Scripture, in 2 vol.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dawson</hi>'s Origine of Laws</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Delphini Virgil</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— <hi>Horace</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— <hi>Juvenal</hi> and <hi>Persius</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— <hi>Ovidij Epistolae</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— <hi>Ovidij Metam.</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— <hi>Terentius</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— <hi>Caesar</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— <hi>Cor. Ne<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>os</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <pb n="3" facs="tcp:51390:75"/>
+                  <row>
+                     <cell>— <hi>Florus</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— <hi>Justin</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— <hi>Ciceronis Orationes</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— <hi>Phaedrus</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Drelincourt</hi> of Death</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>Dutch Gardiner</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>Dignity of the Clergy</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ditton</hi>'s Perspective</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>Don <hi>Quixot,</hi> by <hi>Shelton,</hi> 4 Vol.</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>— Idem, by <hi>Motteaux,</hi> in 4 Vol.</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>Doctrine of the Bible</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Drexelius</hi> of Eternity.</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>Directions for a Devout Life</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Evelyn</hi>'s <hi>Sylva</hi>
+                     </cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>— Parallel of Antient and Modern Architecture</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Esop</hi> Naturalized</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Evelyn</hi>'s <hi>Kalendarium</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Everard</hi>'s <hi>Gauging</hi>
+                     </cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Esop Fab. select.</hi> 40 Interlin'd</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Esop</hi> in English</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Eikon Basilikae</hi>
+                     </cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>English Expositor</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Flavell</hi>'s Works, in 2 Vol.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fidde</hi>'s Life of Cardinal Woolsey</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Francia</hi>'s Tryal</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fryer</hi>'s Travels in <hi>India</hi> and <hi>Persia</hi>
+                     </cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fleetwood</hi>'s Sermon on St. <hi>Stephen</hi>'s Day</cell>
+                     <cell>4to</cell>
+                  </row>
+                  <row>
+                     <cell>— Thanksgiving Sermon after the Rebellion</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fleury</hi>'s Behaviour of Christians</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fabricij Bibliotheca Latina</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Festeau</hi>'s French Grammar</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>Fraud's of Romish Priests, in 2 Vol.</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Flavell</hi>'s Navigation Spiritualized</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Figurae Gram. &amp; Rhet.</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>Forms of Devotion</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fernaby</hi>'s Rhetorick, English and Latin</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— <hi>Juvenal,</hi> a most correct Edition</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Florus</hi> in English, with Cuts</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Gordon</hi>'s Geographical Grammar</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Goodman</hi>'s Penitent Pardon<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <pb n="4" facs="tcp:51390:76"/>
+                  <row>
+                     <cell>— Winter Evening Conference</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— Old Religion</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>— Compassionate Enquiry</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Gregory</hi>'s Nomenciatura</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— <hi>Etymologicum Parvum</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Gregory</hi>'s Astronomy, in 2 Vol. with Cuts</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Glossographia Nova,</hi> a new English Dictionary</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Godwyn</hi>'s Roman Antiquities</cell>
+                     <cell>4to</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hooker</hi>'s Ecclesiastical Polity</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Haye</hi>'s Treatise of Fluxions</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>History of Physick</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— of Painting, Sculpture, and Engraving</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hopkins</hi>'s Works</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>History of <hi>England,</hi> in 3 Vol.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Harris</hi>'s Lexicon T<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>chnicum, in 2 Vol.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>— Elements of Alg<gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ra</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— D<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>scription and Uses of the Globes</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— Plain and Sph<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rical Trigonometry</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— <hi>Pardie</hi>'s <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lements of Geometry</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry</hi> on the Bible, in 6 Vol.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>— Works in 1 Vol.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>— on the Sacrament</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>— of Meekness</cell>
+                     <cell>8ve</cell>
+                  </row>
+                  <row>
+                     <cell>— Catechism</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Heiderici Lexi<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>on Greco Lat.</hi>
+                     </cell>
+                     <cell>4to</cell>
+                  </row>
+                  <row>
+                     <cell>History of the Bible</cell>
+                     <cell>4to</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hire</hi> of Conic Sections</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hatton</hi>'s <hi>Merchant</hi>'s Magazine</cell>
+                     <cell>4to</cell>
+                  </row>
+                  <row>
+                     <cell>— Trader's Companion</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>History of <hi>Holland,</hi> in 2 Vol.</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hill</hi>'s Arithmetick</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Homer,</hi> Greek and Latin</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hutc<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>inson</hi> against Witchcraft</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— Address to the Papists</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— of the Island of <hi>Macasser</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Howard</hi>'s Cookery</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hall</hi>'s Psalm-Singer's Companion</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>Lord <hi>H<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ll<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>fax</hi>'s Advi<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e to a Daughter</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>— Miscellanies</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hudibrass</hi>
+                     </cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hale</hi> of <hi>Eaton</hi>'s Tracts</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <pb n="5" facs="tcp:51390:76"/>
+                  <row>
+                     <cell>Humane Prudence</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hodder</hi>'s Arithmetick</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hatton</hi>'s Psalter</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hammond</hi>'s Devotions.</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hale</hi>'s Contemplations, in 2 Vol.</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hick</hi>'s Reformed Devotions</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Jones</hi>'s (Sir Wm.) Reports</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Johnson</hi>'s (Sam.) Works.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Johnson</hi>'s Plays, <hi>(Ben.) &amp;c.</hi> in 6 Vol.</cell>
+                     <cell>800</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Isham</hi>'s Catechism</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>— Office for Sick</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Knox</hi>'s History of <hi>Ceylon</hi>
+                     </cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Koehorn</hi>'s whole Art of Fortification</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Kennet</hi>'s Roman Antiquities</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Kettlewell</hi>'s Works, in 2 Vol.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>— Life</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— Measures of Obedience</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— On the Sacrament</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— Practical Believer</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— All his other Works</cell>
+                     <cell>4to, 8vo, and 12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Keay</hi>'s Practical Measurer</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lilly</hi>'s Practical Register, in 2 Vol.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Littleton</hi>'s Dictionary</cell>
+                     <cell>4to</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lowthorp</hi>'s Abridgment of the <hi>Philosoph. Trans.</hi> in 3 Vol.</cell>
+                     <cell>4to</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lemery</hi>'s Chymistry</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>Lives of the Dramatick Poets</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Langford</hi> of Fruit Trees</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Leusdeni Compendium Novi Testamenti</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>Letters of a Nobleman</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Leed</hi>'s <hi>Lucian,</hi> Greek and Latin</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Luciani Dialogi,</hi> by <hi>Dugard</hi>
+                     </cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lauderdale</hi>'s (Earl of) Virgil, in 2 Vol.</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Moll</hi>'s Compleat Geograph.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Machiavell</hi>'s Works</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Malebranch</hi>'s Search after Truth</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>Modern Reports, 1st Vol.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>Military Architecture, or the whole Art of Fortification<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> in one Sheet</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="6" facs="tcp:51390:77"/>
+                        <hi>Mead</hi>'s Construction and Use of the Globes</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>Memoirs of Lives in Year 1711</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Moivre contra Cheyneum</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Moxon</hi>'s Mechanick Exercises</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>Mystery of Fanaticism</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mason</hi>'s Hymns</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Medulla</hi> Hist. <hi>Anglicanae</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>Monthly Amusements</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>Mother's Blessing</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Morton</hi>'s Devotions</cell>
+                     <cell>240</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Newton</hi>'s Theory of the Moon's Motion.</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Outram</hi>'s Sermons</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>Bp. <hi>Pearson</hi> on the Creed</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Pharmacop. Londinensis</hi>
+                     </cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>— Idem</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>Practice of Piety</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— Idem</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Potter</hi>'s Antiquities of Greece, in 2 vol.</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— Church Government</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Puffendorf</hi>'s Introduction</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Parsons</hi> the Jesuit's Memorial</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Patrick</hi>'s Paraphrases, in 2 Vol.</cell>
+                     <cell>4to</cell>
+                  </row>
+                  <row>
+                     <cell>— Pilgrim</cell>
+                     <cell>4to</cell>
+                  </row>
+                  <row>
+                     <cell>— <hi>Mensa Mystica</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— Answer to the Touchstone</cell>
+                     <cell>8vo.</cell>
+                  </row>
+                  <row>
+                     <cell>— Friendly Debate</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— <hi>Grotius</hi> in English</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>— Heart's Ease</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>— Devout Christian</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>— Christian Sacrifice</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>— Advice to a Friend</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>— Frequent Communion</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>Of Repentance</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>— Of Prayer</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>— Help to Young Beginners</cell>
+                     <cell>4to</cell>
+                  </row>
+                  <row>
+                     <cell>Posing of the Parts</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Petty</hi>'s Political Arithmetick</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Phaedrus in Ʋsum Nassavij</hi>
+                     </cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>Poor Man's Physician and Surgeon</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Posy</hi> of Godly Prayers</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Patrick</hi>'s Singing Psalms</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <pb n="7" facs="tcp:51390:77"/>
+                  <row>
+                     <cell>
+                        <hi>Quincy</hi>'s London Dispensatory</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Quevedo</hi>'s Visions</cell>
+                     <cell>8vo, and 12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Rushworth</hi>'s Collection, in 8 Vol.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Raphson</hi> Mathematical Dictionary</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ronkley</hi>'s Spelling-Book</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Row</hi>'s Salust.</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>Reflections on Ridicule, in 2 Vol.</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>Rules of Civility</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Seldeni</hi> Opera, in 3 Vol.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>Survey of the <hi>Micros<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>osm;</hi> or, Anatomy of the Body of Man and Woman, in Cuts, pasted</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Stripe</hi>'s Life of Archbishop <hi>Cranmer</hi>
+                     </cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>— Of Archbishop <hi>Whitgift</hi>
+                     </cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sandford</hi>'s Geneal. History of <hi>England</hi>
+                     </cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Stow</hi>'s Survey of <hi>London,</hi> in 2 Vol.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sprat</hi>'s History of the Royal Society</cell>
+                     <cell>4to</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Shuttleworth</hi>'s Treatise of Opticks</cell>
+                     <cell>4to</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Story</hi>'s Wars of <hi>Ireland</hi>
+                     </cell>
+                     <cell>4to</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Salmon</hi>'s <hi>London</hi> Dispensatory</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Doron.</hi> or 2d Vol. of Dispensatory</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spink</hi>'s Collection of Devotions</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sturmius Mathesis Enucleata,</hi> in English</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— <hi>Mathesis Juvenilis,</hi> in English, in 3 Vol.</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Smith</hi>'s Rhetorick</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Stanho<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e</hi>'s Sermons</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— <hi>Tho. a Kempis</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— Idem</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>— St. <hi>Augustine</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— On the Epistles and Gospels, in 4 Vol.</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— Christian Directory</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sanderson</hi>'s Cases of Conscience</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sckickard</hi>'s Hebrew Grammar</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sandersoni Praelectiones</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sherlock</hi>'s Practical Christian</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Suetonius</hi> in English, in 2 Vol.</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Stern de Visitatione Infirmorum</hi>
+                     </cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Shadwell</hi>'s Plays in 4 Vol.</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Shipton</hi>'s <hi>Pharmacopeia</hi>
+                     </cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sylvanus in Lucian. Plut. Is<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ratis. Esop. Theocritus.</hi>
+                     </cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>— <hi>In Homer</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb facs="tcp:51390:78"/>
+                        <hi>Towerson</hi> on the Sacraments, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Taylor</hi>'s Life of <hi>Christ</hi> and the Apostles, with fine Cuts.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>— Cases of Conscience</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>— Living and Dying</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— Golden Grove</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Tauvry</hi>'s Rational Anatomy</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>Tryal of the Regicides</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Tully</hi> of Government of the Thoughts</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Terence</hi> in English</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Tatlers,</hi> in 5 Vol.</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Tullij Orationes Selectae</hi>
+                     </cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>View of a Third Rate Man of War, and the Section of it in a Large Sheet Print</cell>
+                  </row>
+                  <row>
+                     <cell>View of <hi>London,</hi> in 2 Vol.</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>Use of the Quadrant</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Valentine</hi>'s Last Will and Testament.</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Vestibulum Technicum</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Vertor</hi>'s Revolution of Rome in 2 Vol.</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— of <hi>Portugal.</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Upton</hi>'s <hi>Fabellarum Delectus</hi>
+                     </cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Valentine</hi>'s Devotions</cell>
+                     <cell>24vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Xenophon</hi> Greek and Latin</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Wood</hi>'s <hi>Athenae Oxonienses,</hi> in 2 Vol.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Walker</hi>'s Sufferings of the Clergy.</cell>
+                     <cell>Fol:</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Wharton</hi>'s <hi>Anglia Sacra,</hi> in 2 Vol.</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Winche</hi>'s Entries</cell>
+                     <cell>Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>Arch. Bp. <hi>Wake</hi>'s Sermons</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— On Death</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>— Pamphlets against the Papists</cell>
+                     <cell>4to</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Wiseman</hi>'s Surgery, in 2 Vol.</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Worthington</hi>'s Catechism</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>Bp. <hi>William</hi>'s Sermons</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Wharton</hi>'s Sermons, in 2 Vol.</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>Bp <hi>Wilkins</hi>'s Sermons</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>— Natural Religion</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Wood</hi>'s Institutes of the Civil Law</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Well</hi>'s Dyonisius</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Wase</hi>'s Grammar</cell>
+                     <cell>8vo</cell>
+                  </row>
+                  <row>
+                     <cell>Week's Preparation, 1st Part</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>Week's Preparation, 2d Part</cell>
+                     <cell>12mo</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eeks Course of Devotions</cell>
+                     <cell>12mo</cell>
+                  </row>
+               </table>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:51390:78"/>
+         </div>
+      </back>
+   </text>
+</TEI>
